@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileOpTester": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Thomson\\OneDrive\\Documents\\test"
+    }
+  }
+}
